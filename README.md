@@ -14,3 +14,13 @@ then run the application
 node app.js
 ```
 
+Application runs on localhost:3000
+
+this endpoint has onboard teacher api
+
+Get http://localhost:3000/api/onboard-teacher
+POST http://localhost:3000/api/onboard-teacher
+
+Update :http://localhost:3000/api/onboard-teacher/{id}
+
+Delete: :http://localhost:3000/api/onboard-teacher/{id}
